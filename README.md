@@ -1,4 +1,4 @@
-# Test Your Knowledge of Physics and C.
+# Test Your Knowledge of Physics and C
 
 This C program measures acceleration due to gravity.&nbsp;
 When run without any arguments, it prints the exact
@@ -8,9 +8,8 @@ in SI units (m/s<sup>2</sup>).
 Instructions: [download the program text]
 (https://raw.githubusercontent.com/mishadynin/gravity/master/g.c),
 save it to a file, compile and run it.  It is *very important*
-that you preserve the formatting (if you delete or add a single newline,
-the program will not work!)&nbsp;
-`#define&nbsp;O&nbsp;+\` must be the first line in the .c file.
+that you preserve the formatting: if you delete or add a single newline,
+the program will not work!
 
 ```C
 #define O +\
@@ -82,4 +81,4 @@ support for other planets will be added in later revisions.&nbsp;
 If you live on Mars and want to be a beta-tester, please
 [contact me](http://mishadynin.com/#contact).
 
-`;)`
+:wink:
