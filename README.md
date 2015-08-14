@@ -1,4 +1,4 @@
-# Test Your Knowledge of Physics and C
+# Test your knowledge of physics and C
 
 This C program measures acceleration due to gravity.&nbsp;
 When run without any arguments, it prints the exact
@@ -72,9 +72,10 @@ connected to a very precise timer.&nbsp;  The program works by measuring
 the time it takes for a particle to fall from the top of the program
 to the bottom.
 
-You can reproduce Galileo's famous experiment by changing `O` to
-another letter and verifying that the value of acceleration
-doesn't change.
+You can reproduce [Galileo's famous experiment]
+(https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment)
+by changing `O` to another letter and verifying that the value of
+acceleration doesn't change.
 
 FIXME: current version of the program works only on Earth;
 support for other planets will be added in later revisions.&nbsp;
