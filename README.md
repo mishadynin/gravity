@@ -5,8 +5,7 @@ When run without any arguments, it prints the exact
 [value of **g**](http://physics.nist.gov/cgi-bin/cuu/Value?gn)
 in SI units (m/s<sup>2</sup>).
 
-Instructions: [download the program text]
-(https://raw.githubusercontent.com/mishadynin/gravity/master/g.c),
+Instructions: [download the program text](https://raw.githubusercontent.com/mishadynin/gravity/master/g.c),
 save it to a file, compile and run it.  It is *very important*
 that you preserve the formatting: if you delete or add a single newline,
 the program will not work!
@@ -72,8 +71,7 @@ connected to a very precise timer.&nbsp;  The program works by measuring
 the time it takes for a particle to fall from the top of the program
 to the bottom.
 
-You can reproduce [Galileo's famous experiment]
-(https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment)
+You can reproduce [Galileo's famous experiment](https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment)
 by changing `O` to another letter and verifying that the value of
 acceleration doesn't change.
 
